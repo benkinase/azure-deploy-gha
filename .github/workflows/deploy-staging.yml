@@ -17,7 +17,7 @@
 
     # if: contains(github.event.pull_request.labels.*.name, 'stage')
 
-#Deployment
+#Deployment to staging
 
 name: Deploy to staging
 
